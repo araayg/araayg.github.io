@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://araayg.csgad.com/jxL/sitemap.xml.gz
